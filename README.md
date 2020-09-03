@@ -1,4 +1,4 @@
-# Korean city name-to-Romanization-program
+# Korean city name to Romanization program
 
 ## Introcudtion
 This code Korean city name changs to English word using romanization. ex)서울 -> seoul
